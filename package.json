@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "init": "truffle init",
+    "develop": "truffle develop"
+  },
+  "dependencies": {
+    "truffle": "^4.0.1"
+  }
+}
